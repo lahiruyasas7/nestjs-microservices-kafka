@@ -24,6 +24,9 @@
 
 ## Description
 
+this is tutorial from sakura dev youtube channel.
+[link](https://www.youtube.com/watch?v=KPszh1qKPMQ)
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Project setup
