@@ -17,6 +17,6 @@ export class ApiGatewayController {
   @Post('order')
   createOrder(@Body() order: any) {
     this.kafkaClient.emit('order-created', order);
-    return { mesage: 'order set to Kafka', order };
+    return { message: 'order set to Kafka', order };
   }
 }
