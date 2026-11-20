@@ -27,6 +27,10 @@
 this is tutorial from sakura dev youtube channel.
 [link](https://www.youtube.com/watch?v=KPszh1qKPMQ)
 
+## System Architecture
+
+![Kafka Microservices Architecture](./Kafka-Microservices-Architecture-Flow.png)
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Project setup
